@@ -104,12 +104,3 @@ A **C++ program** generates randomized RISC-V test cases:
 
 [RISC-V Test Generator Repository](https://github.com/Rawan10101/RISC-V-testcase-generator)
 
----
-
-## Conclusion
-
-This project demonstrates a complete transition from a **single-cycle RISC-V processor** to a fully functional **pipelined architecture** with unified memory and robust hazard management.  
-Supports **RV32I + multiplication instructions**, making it suitable for **educational purposes and architectural exploration**.
-
----
-
